@@ -16,6 +16,8 @@
 }
 ._图片_ {
 }
+.placeholder {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -114,6 +116,9 @@
   font-style:normal;
   font-size:14px;
   color:#606266;
+  text-align:left;
+}
+.paragraph {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
